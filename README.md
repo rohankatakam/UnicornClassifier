@@ -1,4 +1,4 @@
-# Unicorn Classifier
+# [Unicorn Classifier](https://github.com/rohankatakam/UnicornClassifier/blob/main/report.ipynb)
 
 ## Overview
 Unicorn Classifier is a random forest classifier model that determines the appropriate funding status (Private Equity, Late Stage Venture, IPO, M&A, or Early Stage Venture) of a unicorn company. The data used was sourced from [The Crunchbase Unicorn Board](https://news.crunchbase.com/unicorn-company-list/).
